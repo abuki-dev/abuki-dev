@@ -24,7 +24,7 @@
   <img src="https://komarev.com/ghpvc/?username=abuki-dev&label=Profile%20views&color=6F3AFF&style=flat" alt="Profile Views" />
   &nbsp;
   <a href="https://github.com/Nurexi?tab=followers">
-    <img src="https://img.shields.io/github/followers/abuki-dev?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/abuki-dev?label=Followers&style=social" alt="GitHub-Followers" />
   </a>
   &nbsp;
   <a href="https://github.com/Nurexi?tab=stars">
