@@ -1,77 +1,58 @@
-
- <div align="center">                        
- 
-<h1 align="center"> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="waving hand"> 
-  Hi there, I'm <strong>Abubeker Ahmed</strong> 🌟
-</h1>
-
-<h2 align="center">🎓 Aspiring Software Engineering Student</h2>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,18,22&height=120&section=header&text=Welcome%20to%20My%20Profile!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=40" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6F3AFF&center=true&vCenter=true&width=435&lines=Front-EndDeveloper;Open-Source+Contributor;Tech+Enthusiast;Problem+Solver;software+engineer" alt="Typing SVG" />
-  </a>
-</p> 
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abuki-dev&label=Profile%20views&color=6F3AFF&style=flat" alt="Profile Views" />
-  &nbsp;
-  <a href="https://github.com/Nurexi?tab=followers">
-    <img src="https://img.shields.io/github/followers/abuki-dev?label=Followers&style=social" alt="GitHub-Followers" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Nurexi?tab=stars">
-    <img src="https://img.shields.io/github/stars/abuki-dev?style=social" alt="GitHub Stars" />
-  </a>
-</div>
 
-<br>
-<h1>👋 Welcome to My GitHub Profile</h1>
-<div align="center">
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,18,22&height=140&section=header&text=Hey%2C%20I'm%20Abubeker!&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=45" width="100%" />
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
+
+<h1>Abubeker Ahmed</h1>
+<h3>🎓 Software Engineering Student &nbsp;·&nbsp; Front-End Developer &nbsp;·&nbsp; Open-Source Enthusiast</h3>
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6F3AFF&center=true&vCenter=true&width=500&lines=Front-End+Developer;Open-Source+Contributor;Tech+Enthusiast;Problem+Solver;Software+Engineer" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=abuki-dev&label=Profile%20Views&color=6F3AFF&style=flat" alt="Profile Views" />
+&nbsp;
+<a href="https://github.com/abuki-dev?tab=followers">
+  <img src="https://img.shields.io/github/followers/abuki-dev?label=Followers&style=social" alt="Followers" />
+</a>
+&nbsp;
+<a href="https://github.com/abuki-dev?tab=stars">
+  <img src="https://img.shields.io/github/stars/abuki-dev?style=social" alt="Stars" />
+</a>
+
 </div>
 
 ---
 
+## 👨‍💻 About Me
 
+<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-<ul>
-  
-     
-    
-  <div align="left">
-  
- 
+- 🦅 **Goal:** Contribute more to open-source projects
+- 🤝 **Open to:** Collaborating with creative developers
+- 💡 **Passion:** Building simple, creative, and impactful projects
+- 🌱 **Currently learning:** Web Development & System Design
+- ⚡ **Fun fact:** I think in code and dream in pixels
 
-
-- 🦅 Goal: To contribute more to open-source projects  
-- 🤝 Looking to collaborate with creative developers  
-- 💡 I enjoy building simple, creative, and impactful projects  
-- 🌱 Currently learning **webdevelopment** & **system design**  
-
-
-
-</ul>
+<br clear="right"/>
 
 ---
 
-<h2>🌐 Connect With Me</h2>
+## 🌐 Connect With Me
 
-<p align="left">
+<p>
   <a href="https://instagram.com/nure_xos" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/Nuredin%20seid" target="_blank">
+  <a href="https://twitter.com/Nuredin_seid" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/Nuredin%20Seid-a40548195" target="_blank">
+  <a href="https://www.linkedin.com/in/nuredin-seid-a40548195" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.facebook.com/" target="_blank">
@@ -81,68 +62,63 @@
 
 ---
 
-<h3> Languages and Tools:</h3>
+## 🛠️ Tech Stack
 
-<p align="left">
-  <!-- Programming Languages -->
-  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" /></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" /></a>
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /></a>
+**Languages**
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" title="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" title="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL" />
+</p>
+
+**Tools & Platforms**
+
+<p>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" title="GitHub" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" title="VS Code" />
 </p>
 
 ---
 
-<h3> Databases:</h3>
+## 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" /></a>
-</p>
-
----
-
-<h3> Tools & Platforms:</h3>
-
-<p align="left">
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" /></a>
-  <a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" /></a>
-</p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abuki-dev&show_icons=true&theme=aura&bg_color=0D1117&hide_border=true&ring_color=6F3AFF&title_color=E4B1FF&text_color=FFFFFF&icon_color=C3B1E1" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuki-dev&layout=compact&theme=aura&bg_color=0D1117&hide_border=true&title_color=E4B1FF&text_color=FFFFFF" height="170" />
-</p>
+</div>
 
----
-
-<h2 align="center">🔥 GitHub Streak</h2>
-
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abuki-dev&theme=aura&hide_border=true&background=0D1117&ring=6F3AFF&fire=FF5C00&currStreakLabel=E4B1FF&sideLabels=C3B1E1" />
-</p>
+</div>
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2> 
+## 🏆 Trophies
 
-<p align="center">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abuki-dev&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" />
-</p>
+</div>
 
 ---
 
-<h2 align="center">📈 Contribution Graph</h2> 
+## 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abuki-dev&bg_color=0D1117&color=6F3AFF&line=E4B1FF&point=C3B1E1&area=true&hide_border=true" />
-</p>
+</div>
 
 ---
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg" />
@@ -150,12 +126,14 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
 </picture>
 
-<br>
+<br/>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=abuki-dev&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Nurexi)
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-  <h3 align="center">✨ Thank you for visiting! Let's build something awesome together. 🚀</h3>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Happy%20Coding!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%">
+<br/>
+
+<h3>✨ Thanks for stopping by — let's build something awesome together 🚀</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Happy%20Coding!&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%" />
+
 </div>
