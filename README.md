@@ -58,10 +58,9 @@ fun_fact: I think in code and dream in pixels
 
 <div>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nure_xos)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nuredin_seid)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuredin-seid-a40548195)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/unforgatable_story)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abuki-devl)
+[![Facebook](https://img.shields.io/badge/telegram-1877F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Only1rull)
 
 </div>
 
@@ -87,14 +86,14 @@ fun_fact: I think in code and dream in pixels
 ### 📊 &nbsp;GitHub Stats
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=abuki-dev&show_icons=true&theme=aura&hide_border=true" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=abuki-dev&show_icons=true&theme=aura&bg_color=0D1117&hide_border=true&ring_color=6F3AFF&title_color=E4B1FF&text_color=FFFFFF&icon_color=C3B1E1" height="165" />
-&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abuki-dev&theme=aura&hide_border=true" height="160"/>
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuki-dev&layout=compact&theme=aura&bg_color=0D1117&hide_border=true&title_color=E4B1FF&text_color=FFFFFF" height="165" />
 
-<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abuki-dev&theme=aura&hide_border=true&background=0D1117&ring=6F3AFF&fire=FF5C00&currStreakLabel=E4B1FF&sideLabels=C3B1E1" />
 
 </div>
 
@@ -130,7 +129,7 @@ fun_fact: I think in code and dream in pixels
 
 <br/><br/>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=abuki-dev&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Nurexi)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=abuki-dev&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/abuki-dev)
 
 <br/>
 
