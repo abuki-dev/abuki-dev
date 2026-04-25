@@ -86,14 +86,14 @@ fun_fact: I think in code and dream in pixels
 ### 📊 &nbsp;GitHub Stats
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=abuki-dev&show_icons=true&theme=aura&hide_border=true" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=abuki-dev&show_icons=true&theme=aura&bg_color=0D1117&hide_border=true&ring_color=6F3AFF&title_color=E4B1FF&text_color=FFFFFF&icon_color=C3B1E1" height="165" />
-&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abuki-dev&theme=aura&hide_border=true" height="160"/>
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuki-dev&layout=compact&theme=aura&bg_color=0D1117&hide_border=true&title_color=E4B1FF&text_color=FFFFFF" height="165" />
 
-<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abuki-dev&theme=aura&hide_border=true&background=0D1117&ring=6F3AFF&fire=FF5C00&currStreakLabel=E4B1FF&sideLabels=C3B1E1" />
 
 </div>
 
