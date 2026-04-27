@@ -122,11 +122,11 @@ fun_fact: I think in code and dream in pixels
 <div align="center">
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-    <img alt="GitHub Snake" src="https://githubusercontent.com">
-  </picture>
+  <br>
+  <kbd>
+ <img src="https://raw.githubusercontent.com/abuki-dev/abuki-dev/output/github-snake-dark.svg" width="800px" />
+  </kbd>
+  <br>
 </p>
 
 <br/><br/>
